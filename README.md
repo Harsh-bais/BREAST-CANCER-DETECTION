@@ -104,5 +104,5 @@ This will create `Project_Report.pdf` in the root directory.
 
 ---
 
-**Author**: Ayush
+**Author**: HARSH
 **License**: MIT
