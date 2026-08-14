@@ -39,8 +39,7 @@ This project bridges the gap between Data Science and Software Engineering by wr
 ### Option 1: Local Python Environment
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/breast-cancer-prediction.git
-    cd breast-cancer-prediction
+    git clone https://github.com/Harsh-bais/BREAST-CANCER-DETECTION.git followed by cd BREAST-CANCER-DETECTION
     ```
 2.  **Install dependencies**:
     ```bash
